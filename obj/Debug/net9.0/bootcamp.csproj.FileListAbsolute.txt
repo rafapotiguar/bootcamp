@@ -1,0 +1,14 @@
+D:\RAFAEL\DEV\PROJETOS\bootcamp\bin\Debug\net9.0\bootcamp.exe
+D:\RAFAEL\DEV\PROJETOS\bootcamp\bin\Debug\net9.0\bootcamp.deps.json
+D:\RAFAEL\DEV\PROJETOS\bootcamp\bin\Debug\net9.0\bootcamp.runtimeconfig.json
+D:\RAFAEL\DEV\PROJETOS\bootcamp\bin\Debug\net9.0\bootcamp.dll
+D:\RAFAEL\DEV\PROJETOS\bootcamp\bin\Debug\net9.0\bootcamp.pdb
+D:\RAFAEL\DEV\PROJETOS\bootcamp\obj\Debug\net9.0\bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+D:\RAFAEL\DEV\PROJETOS\bootcamp\obj\Debug\net9.0\bootcamp.AssemblyInfoInputs.cache
+D:\RAFAEL\DEV\PROJETOS\bootcamp\obj\Debug\net9.0\bootcamp.AssemblyInfo.cs
+D:\RAFAEL\DEV\PROJETOS\bootcamp\obj\Debug\net9.0\bootcamp.csproj.CoreCompileInputs.cache
+D:\RAFAEL\DEV\PROJETOS\bootcamp\obj\Debug\net9.0\bootcamp.dll
+D:\RAFAEL\DEV\PROJETOS\bootcamp\obj\Debug\net9.0\refint\bootcamp.dll
+D:\RAFAEL\DEV\PROJETOS\bootcamp\obj\Debug\net9.0\bootcamp.pdb
+D:\RAFAEL\DEV\PROJETOS\bootcamp\obj\Debug\net9.0\bootcamp.genruntimeconfig.cache
+D:\RAFAEL\DEV\PROJETOS\bootcamp\obj\Debug\net9.0\ref\bootcamp.dll
