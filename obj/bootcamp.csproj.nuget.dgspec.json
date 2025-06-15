@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RAFAEL\\DEV\\PROJETOS\\bootcamp\\bootcamp.csproj": {}
+    "R:\\DEV\\PROJECTS\\dev\\bootcamp\\bootcamp.csproj": {}
   },
   "projects": {
-    "D:\\RAFAEL\\DEV\\PROJETOS\\bootcamp\\bootcamp.csproj": {
+    "R:\\DEV\\PROJECTS\\dev\\bootcamp\\bootcamp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RAFAEL\\DEV\\PROJETOS\\bootcamp\\bootcamp.csproj",
+        "projectUniqueName": "R:\\DEV\\PROJECTS\\dev\\bootcamp\\bootcamp.csproj",
         "projectName": "bootcamp",
-        "projectPath": "D:\\RAFAEL\\DEV\\PROJETOS\\bootcamp\\bootcamp.csproj",
-        "packagesPath": "C:\\Users\\panga\\.nuget\\packages\\",
-        "outputPath": "D:\\RAFAEL\\DEV\\PROJETOS\\bootcamp\\obj\\",
+        "projectPath": "R:\\DEV\\PROJECTS\\dev\\bootcamp\\bootcamp.csproj",
+        "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
+        "outputPath": "R:\\DEV\\PROJECTS\\dev\\bootcamp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\panga\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
