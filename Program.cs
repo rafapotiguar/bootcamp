@@ -38,19 +38,35 @@
 
 // Console.WriteLine("Conversão realizada com sucesso");
 
-int quantidadeEmEstoque = 10;
-int quantidadeCompra = 5;
-bool possivelVenda = quantidadeEmEstoque >= quantidadeCompra;
+// int quantidadeEmEstoque = 10;
+// int quantidadeCompra = 5;
+// bool possivelVenda = quantidadeEmEstoque >= quantidadeCompra;
 
-Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
-Console.WriteLine($"Quantidade da compra: {quantidadeCompra}");
-Console.WriteLine($"É possível realizar a venda? {possivelVenda}");
+// Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
+// Console.WriteLine($"Quantidade da compra: {quantidadeCompra}");
+// Console.WriteLine($"É possível realizar a venda? {possivelVenda}");
 
-if (possivelVenda)
+// if (possivelVenda)
+// {
+//     Console.WriteLine("Venda realizada com sucesso!");
+// }
+// else
+// {
+//     Console.WriteLine("Venda não realizada. Estoque insuficiente.");
+// }
+
+bool presenca = true;
+double media = 8.0;
+
+if (presenca && media >= 7.0)
 {
-    Console.WriteLine("Venda realizada com sucesso!");
+    Console.WriteLine("Aprovado!");
+}
+else if (presenca && media >= 5.0)
+{
+    Console.WriteLine("Recuperação!");
 }
 else
 {
-    Console.WriteLine("Venda não realizada. Estoque insuficiente.");
+    Console.WriteLine("Reprovado!");
 }

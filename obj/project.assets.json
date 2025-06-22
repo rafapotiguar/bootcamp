@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "R:\\DEV\\PROJECTS\\dev\\bootcamp\\bootcamp.csproj",
+      "projectUniqueName": "C:\\DEV\\projects\\bootcamp\\bootcamp.csproj",
       "projectName": "bootcamp",
-      "projectPath": "R:\\DEV\\PROJECTS\\dev\\bootcamp\\bootcamp.csproj",
+      "projectPath": "C:\\DEV\\projects\\bootcamp\\bootcamp.csproj",
       "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-      "outputPath": "R:\\DEV\\PROJECTS\\dev\\bootcamp\\obj\\",
+      "outputPath": "C:\\DEV\\projects\\bootcamp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config"
