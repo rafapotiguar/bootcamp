@@ -1,5 +1,14 @@
 ﻿using bootcamp.Models;
 
+Calculadora calc = new Calculadora();
+
+calc.Somar(10, 30);
+calc.Subtrair(50, 20);
+calc.Multiplicar(5, 5);
+calc.Dividir(100, 4);
+
+
+
 // Pessoa pessoa1 = new Pessoa();
 
 // pessoa1.Nome = "Rafael Queiroz";
@@ -55,18 +64,18 @@
 //     Console.WriteLine("Venda não realizada. Estoque insuficiente.");
 // }
 
-bool presenca = true;
-double media = 8.0;
+// bool presenca = true;
+// double media = 8.0;
 
-if (presenca && media >= 7.0)
-{
-    Console.WriteLine("Aprovado!");
-}
-else if (presenca && media >= 5.0)
-{
-    Console.WriteLine("Recuperação!");
-}
-else
-{
-    Console.WriteLine("Reprovado!");
-}
+// if (presenca && media >= 7.0)
+// {
+//     Console.WriteLine("Aprovado!");
+// }
+// else if (presenca && media >= 5.0)
+// {
+//     Console.WriteLine("Recuperação!");
+// }
+// else
+// {
+//     Console.WriteLine("Reprovado!");
+// }
