@@ -1,11 +1,39 @@
 ﻿using bootcamp.Models;
 
-Calculadora calc = new Calculadora();
+int soma = 0, numero = 0;
 
-calc.Somar(10, 30);
-calc.Subtrair(50, 20);
-calc.Multiplicar(5, 5);
-calc.Dividir(100, 4);
+do
+{
+    Console.WriteLine("Digite um número (0 para sair):");
+    numero = Convert.ToInt32(Console.ReadLine());
+
+    soma += numero;
+    
+
+} while (numero != 0);
+
+Console.WriteLine($"Soma dos numeros digitados é: {soma}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Calculadora calc = new Calculadora();
+
+// calc.Somar(10, 30);
+// calc.Subtrair(50, 20);
+// calc.Multiplicar(5, 5);
+// calc.Dividir(100, 4);
 
 
 
